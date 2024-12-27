@@ -21,9 +21,9 @@
             <li>Para el texture pack, deberás activar los recursos del servidor.</li>
         <h2>Paso 4: Colocación de datos dentro de Minecraft:</h2>
         <ul>
-    <li>Al entrar a Minecraft, debería aparecerte la pantalla de carga roja. Una vez cargado, debemos ir a 'Multijugador' y hacer clic en 'Agregar servidor'.</li>
+    <li>Al entrar a Minecraft, debemos ir a 'Multijugador' y hacer clic en 'Agregar servidor'.</li>
             <li>Colocamos los siguientes datos:</li>
-            <li>Nombre: PokeCafé</li>
-            <li>Dirección IP: mc.pokecafe.net</li>
+            <li>Nombre: CobbleCafé</li>
+            <li>Dirección IP: cobble.pokecafe.net</li>
           <!--  -->
             Una vez hecho todo, deberías poder ingresar. Por parte del staff, te deseamos mucha suerte en esta aventura.

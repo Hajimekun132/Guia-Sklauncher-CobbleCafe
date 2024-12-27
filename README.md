@@ -9,8 +9,8 @@
         <ul>
             <li>Haz clic en el signo de + junto al administrador de instalación.</li>
             <li>Una vez dentro, debes ingresar los siguientes datos:</li>
-            <li>Nombre de la instalación: PokeCafé</li>
-            <li>Versión: Forge 1.16.5 - 36.2.39</li>
+            <li>Nombre de la instalación: CobbleCafé</li>
+            <li>Versión: Forge 1.20.1 - 0.16.9</li>
             <li>En el directorio de juego, coloca un nombre único para evitar conflictos con otros servidores.</li>
         <h2>Paso 3: Colocación de mods y texture pack:</h2>
         <ul>

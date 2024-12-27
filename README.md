@@ -1,5 +1,6 @@
 <body>
     <main>
+        # Se recomienda no usar el uso de Tlauncher por temas de compatibilidad.
         <h1>Paso 1: Seleccionar el tipo de cuenta:</h1>
         <ul>
             <li>Premium: Login with Microsoft</li>

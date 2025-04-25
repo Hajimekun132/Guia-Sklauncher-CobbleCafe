@@ -17,7 +17,7 @@
         <ul>
             <li>Vamos a hacer clic en los tres puntos de nuestro servidor y, justo en la tercera opción, vamos a ingresar.</li>
             <li>Deberán aparecer varias carpetas diferentes, pero nosotros vamos a buscar la carpeta llamada 'mods'</li>
-            <li>En esa carpeta colocaremos los mods incluidos en el Modpack que están en nuestro canal 'IP-CobbleCafé'. Una vez descargado, descomprime la carpeta, copia los 12 mods y pégalos en la carpeta de mods. También pueden agregar otros mods de optimización, mapas, crafteos e incluso mods para visión nocturna. Algunos mods de optimización están disponibles en el canal 'IP-CobbleCafé'.</li>
+            <li>En esa carpeta colocaremos los mods incluidos en el Modpack que están en nuestro canal 'IP-CobbleCafé'. Una vez descargado, descomprime la carpeta, copia los mods y pégalos en la carpeta de mods. También pueden agregar otros mods de optimización, mapas, crafteos e incluso mods para visión nocturna. Algunos mods de optimización están disponibles en el canal 'IP-CobbleCafé'.</li>
             <li>Para el texture pack, deberás activar los recursos del servidor.</li>
         <h2>Paso 4: Colocación de datos dentro de Minecraft:</h2>
         <ul>
